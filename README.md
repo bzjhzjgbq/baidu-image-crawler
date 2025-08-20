@@ -16,3 +16,12 @@
 ## 安装依赖
 ```bash
 pip install -r requirements.txt
+```
+## 使用方法
+```bash
+python ./baidu_image_crawler.py [关键词] [下载数量]
+```
+## 注意事项
+请遵守百度图片的使用条款
+脚本仅用于学习目的
+避免大量请求影响服务器
